@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway|Inconsolata);
+
+$raleway: 'Raleway', sans-serif;
+$inconsolata: 'Inconsolata', monospace;
+$primary_color:#2194CE;
+
+::-webkit-scrollbar {
+    width: 12px;
+    background-color: rgb(200, 200, 200);
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgb(210, 210, 210);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(100, 100, 100);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: $primary_color;
+    cursor:pointer;
+}
+
+iframe{
+  border:none !important;
+}
+
+.CodeMirror {
+  border: none;
+  height: auto !important;
+  font-family:$inconsolata !important;
+
+}
+
+.standard{
+  font-family:$inconsolata !important;
+  font-size:16px;
+  color: $primary_color !important;
+}
+
+.exampleText{
+  font-family:$inconsolata !important;
+  font-size:24px;
+  padding-left:36px;
+  color: $primary_color !important;
+}
+.fileTitle {
+    font-family: $inconsolata;
+    // color: $primary_color;
+    font-weight:100;
+    text-decoration: none;
+}
+body {
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.header{
+  font-family: $raleway;
+  color: $primary_color;
+  font-size:15px;
+  line-height:15px;
+  text-align:center;
+}
+a {
+    font-family: $raleway;
+    color: $primary_color;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.sidebar{
+  width:100%;
+}
+.sidebarTitle {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: $raleway;
+    font-size: 30px;
+    line-height: 80px;
+}
+
+.linkList {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: $raleway;
+    font-size: 20px;
+    line-height: 45px;
+
+    .link {
+        padding-left: 20px;
+        padding-right: 20px;
+        font-family: $inconsolata;
+        font-size: 18px;
+        line-height: 24px;
+        display: block;
+    }
+}

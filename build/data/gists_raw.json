@@ -1,0 +1,2627 @@
+{
+    "basic charts": [{
+        "name": "Scatterplot",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887118/raw/7b53ea151d080f4db7d898cca9d51a64a6bbaf91/README.md",
+            "size": 657,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887118/raw/ab32974d4b6a43a876994b95d41cf95edf30b777/index.html",
+            "size": 2663,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887118/raw/9dc1acfdeb9b5fd777a681796298983b9b51385d/thumbnail.png",
+            "size": 8123,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3887118",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887118/raw/4ac49a4a180f1680ba48357e29cefa5e5f379881/data.tsv",
+            "size": 3854,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887118/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Scatterplot",
+            "url": "http://bl.ocks.org/mbostock/3887118"
+        }
+    }, {
+        "name": "Bar Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885304/raw/99ee6c267f1d1bdd8ede64eec3ba71dad2b8659a/README.md",
+            "size": 517,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885304/raw/b62cb10e2c106cee352bc6f41e77bba907b0ccef/index.html",
+            "size": 1665,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885304/raw/6e9131d97a75c0a3564a5e0f718ee09921a25826/thumbnail.png",
+            "size": 4850,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3885304",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885304/raw/2bbfdc87fc412e681b08474e9e407dfa7f57ea49/data.tsv",
+            "size": 250,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885304/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Bar Chart",
+            "url": "http://bl.ocks.org/mbostock/3885304"
+        }
+    }, {
+        "name": "Line Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883245/raw/b389ff8ee755f8ca42f7909187ce8e959e183345/README.md",
+            "size": 598,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883245/raw/52c7d6d14d628e092ce5e295935815d1df998d6f/index.html",
+            "size": 1630,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883245/raw/7e04d9f6eef82742911a555868b808d3907a33ac/thumbnail.png",
+            "size": 6435,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3883245",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883245/raw/298ab523fe2a7403c141572a2223782b9af2fe31/data.tsv",
+            "size": 21282,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883245/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Line Chart",
+            "url": "http://bl.ocks.org/mbostock/3883245"
+        }
+    }, {
+        "name": "Area Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883195/raw/5b00f4fffd94b1f2d37fe0de97c848937ee21528/README.md",
+            "size": 901,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883195/raw/5e25f03518ef4e3a97f6782e079406f2b452d3d0/index.html",
+            "size": 1840,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883195/raw/15471cf7e2c84f2409cb72b033ebbc576fa6b4a5/thumbnail.png",
+            "size": 6298,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3883195",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883195/raw/83e753de2aa1e5a7ba787f500dc51a6f794438d7/data.tsv",
+            "size": 21282,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3883195/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Area Chart",
+            "url": "https://bl.ocks.org/mbostock/3883195"
+        }
+    }, {
+        "name": "Bivariate Area Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3884914/raw/bd84ff2e40a778666f17012941a93ea83303b4aa/README.md",
+            "size": 1067,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3884914/raw/47faf0cc350a70a71594ac67f813d2a4df5e30b2/index.html",
+            "size": 1965,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3884914/raw/0d9ca14da1fbe6a3eab99ab0beaf4a50e5822a95/thumbnail.png",
+            "size": 16818,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3884914",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3884914/raw/21bd2feab7481deea2a4f583e0527677bee02e87/data.tsv",
+            "size": 13922,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3884914/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Bivariate Area Chartt",
+            "url": "http://bl.ocks.org/mbostock/3884914"
+        }
+    }, {
+        "name": "Grouped Bar Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887051/raw/4737f05e0dee1f41000f141ad98dc990ce2826a3/README.md",
+            "size": 889,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887051/raw/9e41ad9de2c1b2236b05c87fe90f3e675c9b1ff8/index.html",
+            "size": 2842,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887051/raw/1cfdf57c0bc2575c59c230b25abaec1e9dde28fb/thumbnail.png",
+            "size": 7186,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3887051",
+        "files": [{
+            "filename": "data.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887051/raw/cd6a0463f6dd41e1cc12fcaaa75cc473d23b8c42/data.csv",
+            "size": 462,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887051/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Grouped Bar Chart",
+            "url": "http://bl.ocks.org/mbostock/3887051"
+        }
+    }, {
+        "name": "Donut Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887193/raw/45d5988a3d09c750115e97d618bf4e046b25e5eb/README.md",
+            "size": 487,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887193/raw/ced47eca01202105e8c1daa32deaf6a24860c90d/index.html",
+            "size": 1338,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887193/raw/695fdae55b831b7d12ea98da14278bea933b4e91/thumbnail.png",
+            "size": 7683,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3887193",
+        "files": [{
+            "filename": "data.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887193/raw/9784cea87cbce2a8dd80398d92b55aada22d43f7/data.csv",
+            "size": 109,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887193/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Donut Chart",
+            "url": "http://bl.ocks.org/mbostock/3887193"
+        }
+    }, {
+        "name": "Pie Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887235/raw/6f7a039ae64d350cf70f659e2e8446a5aeedba7d/README.md",
+            "size": 485,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887235/raw/6a16a1a941abae7b4b52840d8979c393517d7aa8/index.html",
+            "size": 1423,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887235/raw/cf1ab42270efaef55eb951de3cefbd2e2ee3f62f/thumbnail.png",
+            "size": 8906,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3887235",
+        "files": [{
+            "filename": "data.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887235/raw/9784cea87cbce2a8dd80398d92b55aada22d43f7/data.csv",
+            "size": 109,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3887235/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Pie Chart",
+            "url": "http://bl.ocks.org/mbostock/3887235"
+        }
+    }],
+    "advanced charts": [{
+        "name": "Hexagonal Binning",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4248145/raw/f5422bdbc17fa2f71318a2bbe72ca908546ccc00/README.md",
+            "size": 405,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4248145/raw/25c91c0672b9cf5e00f3cf8605595be77f4b82e2/index.html",
+            "size": 2115,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4248145/raw/6d1f16bc8b796af51424c85bec6f641cbf6a768d/thumbnail.png",
+            "size": 24752,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4248145",
+        "files": [{
+            "filename": "d3.hexbin.min.js",
+            "type": "application/javascript",
+            "language": "JavaScript",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4248145/raw/d4a19ca851e5e2eee1ef709971ff384589badec6/d3.hexbin.min.js",
+            "size": 1265,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4248145/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Hexagonal Binning",
+            "url": "http://bl.ocks.org/mbostock/4248145"
+        }
+    }, {
+        "name": "Choropleth",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060606/raw/f00e77314966d06cb56b1a46e776529b647d9552/README.md",
+            "size": 652,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060606/raw/9841cf6f5ba1e72ae8f9c689e8291ca2e942568a/index.html",
+            "size": 2368,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060606/raw/3f2f45d819ae639f06f971881bd62d53e6dd6c28/thumbnail.png",
+            "size": 36307,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4060606",
+        "files": [{
+            "filename": "unemployment.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060606/raw/dfc657a8d193fa47c56af0bd5e50606b18d171c9/unemployment.tsv",
+            "size": 32325,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060606/raw/5bcd32917b5df7183f6737099a4c8590acb0f5fc/.block",
+            "size": 40,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Choropleth",
+            "url": "http://bl.ocks.org/mbostock/4060606"
+        }
+    }, {
+        "name": "Stacked Bar Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886208/raw/44cd8857ba21e6f43719727ad06186d126a35238/README.md",
+            "size": 674,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886208/raw/4a09d5215465752e80d088e0644975b82fbe6652/index.html",
+            "size": 2692,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886208/raw/8351d31413b5c4358e7608630ad72e2ce9892995/thumbnail.png",
+            "size": 12689,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3886208",
+        "files": [{
+            "filename": "data.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886208/raw/4911c2680e4ae38f6a12d421fee978b675204dab/data.csv",
+            "size": 2806,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886208/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Stacked Bar Chart",
+            "url": "http://bl.ocks.org/mbostock/3886208"
+        }
+    }, {
+        "name": "Normalized Stacked Bar Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886394/raw/c5d368cfa4a847c0dbaa61d275fb664721199bb8/README.md",
+            "size": 107,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886394/raw/5838dee7102ff98b0d87a15633ab79b27b9ba6c5/index.html",
+            "size": 2520,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886394/raw/610b14c458d1233c303ebdabd48ec8a3fc30c375/thumbnail.png",
+            "size": 14921,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3886394",
+        "files": [{
+            "filename": "data.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886394/raw/4911c2680e4ae38f6a12d421fee978b675204dab/data.csv",
+            "size": 2806,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3886394/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Normalized Stacked Bar Chart",
+            "url": "http://bl.ocks.org/mbostock/3886394"
+        }
+    }, {
+        "name": "Stacked Area Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885211/raw/915da8266f813d78781f05a8d3771f3895519bce/README.md",
+            "size": 1228,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885211/raw/9220ee1418f55310b2a56ddf1202d950de602b90/index.html",
+            "size": 2051,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885211/raw/00cd4cf9af79627d1c01965575d49728a75a46c2/thumbnail.png",
+            "size": 17190,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3885211",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885211/raw/539a35b0c2d10b5a4c47757bf84b2dfb35193ff5/data.tsv",
+            "size": 19278,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885211/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Stacked Area Chart",
+            "url": "http://bl.ocks.org/mbostock/3885211"
+        }
+    }, {
+        "name": "Waterfall Chart",
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/chucklam/f3c7b3e3709a0afd5d57/raw/c6c744a06813f10a98ec542379c5a1d4a38925bf/index.html",
+            "size": 3285,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/chucklam/f3c7b3e3709a0afd5d57/raw/602e2183c1ee826d70e1f7085ba871a779dc80c3/thumbnail.png",
+            "size": 31713,
+            "truncated": false
+        },
+        "author": "chucklam",
+        "id": "f3c7b3e3709a0afd5d57",
+        "files": [{
+            "filename": "readme.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/chucklam/f3c7b3e3709a0afd5d57/raw/9a50ec0d13dd15f7dff4cd09edcd2121e89a9660/readme.md",
+            "size": 244,
+            "truncated": false
+        }, {
+            "filename": "data.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/chucklam/f3c7b3e3709a0afd5d57/raw/eacb5a1b3505a212fdc30cb463772520132f8543/data.csv",
+            "size": 100,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Waterfall Chart",
+            "url": "http://bl.ocks.org/chucklam/f3c7b3e3709a0afd5d57"
+        }
+    }, {
+        "name": "Difference Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3894205/raw/a689a5d6c6d41df434c9c4569e7904781bbe24ce/README.md",
+            "size": 371,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3894205/raw/9718d382887c4d1b88a9c6982c7165889b4e2c3b/index.html",
+            "size": 2869,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3894205/raw/c8b3600976670af16777a619c485d3a01a56e1c2/thumbnail.png",
+            "size": 18256,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3894205",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3894205/raw/46d9b5089de15710c4d2054bacf587d8036ec331/data.tsv",
+            "size": 6982,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3894205/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Difference Chart",
+            "url": "http://bl.ocks.org/mbostock/3894205"
+        }
+    }, {
+        "name": "Parallel Coordinates",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/jasondavies/1341281/raw/fd197bacf84243c96f3d462ffe83a590058ac879/README.md",
+            "size": 599,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/jasondavies/1341281/raw/97b9d9c3c88f9eb0ee9cebbf9a32d57f9d817a86/index.html",
+            "size": 4455,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/jasondavies/1341281/raw/6e78575c190f99d9b0726272d12948f4d63ae136/thumbnail.png",
+            "size": 44890,
+            "truncated": false
+        },
+        "author": "jasondavies",
+        "id": "1341281",
+        "files": [{
+            "filename": "cars.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/jasondavies/1341281/raw/919ec5997ecc72bc35c461a093454a7d8f504650/cars.csv",
+            "size": 17438,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/jasondavies/1341281/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Parallel Coordinates",
+            "url": "http://bl.ocks.org/jasondavies/1341281"
+        }
+    }, {
+        "name": "Bubble Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063269/raw/5e72bffb17d12e15fb9da3a8b6794ac19db802a2/README.md",
+            "size": 312,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063269/raw/ab200d4055dfa14696846022ab4f301d3dd01e10/index.html",
+            "size": 1910,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063269/raw/5144eafeac9e298962133e9e31de45da21714108/thumbnail.png",
+            "size": 46002,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4063269",
+        "files": [{
+            "filename": "flare.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063269/raw/b111d979d7fcd0fabb554cccd37caf2691f31706/flare.csv",
+            "size": 7989,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063269/raw/9edd5346366b556d6aec4e946d7e027b22018ee3/.block",
+            "size": 40,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Bubble Chart",
+            "url": "http://bl.ocks.org/mbostock/4063269"
+        }
+    }, {
+        "name": "Hierarchical Edge Bundling",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1044242/raw/c54752b52f7b785ba7d5aacddb184381623f4527/README.md",
+            "size": 650,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1044242/raw/e302f40004a02a7188d698ca80c7654c51c2eaab/index.html",
+            "size": 2840,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1044242/raw/f2b962ea45796acb7dfa191242808c494d3b2386/thumbnail.png",
+            "size": 37390,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1044242",
+        "files": [{
+            "filename": "readme-flare-imports.json",
+            "type": "application/json",
+            "language": "JSON",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1044242/raw/7b3997f1556f1ea862d462b3d73d70ed6bc68ea3/readme-flare-imports.json",
+            "size": 34321,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1044242/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Hierarchical Edge Bundling",
+            "url": "https://gist.github.com/mbostock/1044242"
+        }
+    }, {
+        "name": "Chord Diagram",
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1046712/raw/666be27d1f47b0ebc032dd1bfcc9de8ff1b4067e/index.html",
+            "size": 2780,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1046712/raw/ff0a1e8076025791f8e0ca90574ec57e634ddb45/thumbnail.png",
+            "size": 38329,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1046712",
+        "files": [{
+            "filename": "readme.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1046712/raw/30befed613b9dfc443268ddeff6aba86e49ee974/readme.md",
+            "size": 626,
+            "truncated": false
+        }, {
+            "filename": "readme.json",
+            "type": "application/json",
+            "language": "JSON",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1046712/raw/6e714c048c23c409b255bf9fb68c4ae7d0f62330/readme.json",
+            "size": 34320,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1046712/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Chord Diagram",
+            "url": "https://gist.github.com/mbostock/1046712"
+        }
+    }, {
+        "name": "Solar Analemmas",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c5504ab3cd25f93af26a/raw/40a924fec5c91c68110bfc003c9457bff456e96a/README.md",
+            "size": 134,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c5504ab3cd25f93af26a/raw/27f768989de841961af5a7e6fc4a1f08fd34ede2/index.html",
+            "size": 3201,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c5504ab3cd25f93af26a/raw/5181fe522b85b86ea9c4e2071f16f9a32b68cdef/thumbnail.png",
+            "size": 22861,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "c5504ab3cd25f93af26a",
+        "files": [{
+            "filename": "solar-calculator.js",
+            "type": "application/javascript",
+            "language": "JavaScript",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c5504ab3cd25f93af26a/raw/5c6bc007b84bfc21e7d799ae6da79f6459d6fa63/solar-calculator.js",
+            "size": 4397,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c5504ab3cd25f93af26a/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Solar Analemmas",
+            "url": "http://bl.ocks.org/mbostock/c5504ab3cd25f93af26a"
+        }
+    }, {
+        "name": "Radial Stacked Bar II",
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/5479367295dfe8f21002fc71d6500392/raw/10ef488e44e5bece62cc1e930d032501082a019e/index.html",
+            "size": 3755,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/5479367295dfe8f21002fc71d6500392/raw/868ddad31ef8ea828f8f8771ca51446f3d633e78/thumbnail.png",
+            "size": 18518,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "5479367295dfe8f21002fc71d6500392",
+        "files": [{
+            "filename": "data.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/5479367295dfe8f21002fc71d6500392/raw/4911c2680e4ae38f6a12d421fee978b675204dab/data.csv",
+            "size": 2806,
+            "truncated": false
+        }, {
+            "filename": "d3-scale-radial.js",
+            "type": "application/javascript",
+            "language": "JavaScript",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/5479367295dfe8f21002fc71d6500392/raw/6a35a4499481e2b8cffe1d2b0fca4bccfa26af9d/d3-scale-radial.js",
+            "size": 1050,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/5479367295dfe8f21002fc71d6500392/raw/55e9a84ead3ce14fc16fc45d505aee1897afd393/.block",
+            "size": 29,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Radial Stacked Bar II",
+            "url": "http://bl.ocks.org/mbostock/5479367295dfe8f21002fc71d6500392"
+        }
+    }, {
+        "name": "Sequences sunburst",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/kerryrodden/7090426/raw/4b9b842820def80fe442bbf5993d5ebcdc4790ef/README.md",
+            "size": 2479,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/kerryrodden/7090426/raw/d89dd9548d71794014fc7bbd2911f6fecde92c86/index.html",
+            "size": 1046,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/kerryrodden/7090426/raw/0ef356f60e20f70f424195a693739dfc74c42ad7/thumbnail.png",
+            "size": 79698,
+            "truncated": false
+        },
+        "author": "kerryrodden",
+        "id": "7090426",
+        "files": [{
+            "filename": "visit-sequences.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/kerryrodden/7090426/raw/baee008554fa19e569e5a1a10fdf0a294499d7e0/visit-sequences.csv",
+            "size": 587298,
+            "truncated": false
+        }, {
+            "filename": "sequences.js",
+            "type": "application/javascript",
+            "language": "JavaScript",
+            "raw_url": "https://gist.githubusercontent.com/kerryrodden/7090426/raw/03b2ac5578c54e8014f55b6e3e035b2fe1033830/sequences.js",
+            "size": 8952,
+            "truncated": false
+        }, {
+            "filename": "sequences.css",
+            "type": "text/css",
+            "language": "CSS",
+            "raw_url": "https://gist.githubusercontent.com/kerryrodden/7090426/raw/dd489d2e2ee7129235c4d2ecd49104be2701b5f6/sequences.css",
+            "size": 649,
+            "truncated": false
+        }, {
+            "filename": "LICENSE",
+            "type": "text/plain",
+            "language": "Text",
+            "raw_url": "https://gist.githubusercontent.com/kerryrodden/7090426/raw/814907ea0438b2a2118a9a791aa8b68c8d0346ef/LICENSE",
+            "size": 572,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Sequences sunburst",
+            "url": "http://bl.ocks.org/kerryrodden/7090426"
+        }
+    }],
+    "dendrograms": [{
+        "name": "Radial Tidy Tree",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063550/raw/753418ecd3bfb0ab7e89e66ef3c55b4f4db477eb/README.md",
+            "size": 706,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063550/raw/e6ec21504dc14720f240c751e6e9a659428ed1c2/index.html",
+            "size": 2291,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063550/raw/9350f984e44befbe0cf54c5089bc4d962b463cac/thumbnail.png",
+            "size": 24598,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4063550",
+        "files": [{
+            "filename": "flare.json",
+            "type": "application/json",
+            "language": "JSON",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063550/raw/a05a94858375bd0ae023f6950a2b13fac5127637/flare.json",
+            "size": 11413,
+            "truncated": false
+        }, {
+            "filename": "flare.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063550/raw/b111d979d7fcd0fabb554cccd37caf2691f31706/flare.csv",
+            "size": 7989,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063550/raw/359fb27f16827a6f9ecc2b1f9db1b774e9f5233f/.block",
+            "size": 41,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Radial Tidy Tree",
+            "url": "http://bl.ocks.org/mbostock/4063550"
+        }
+    }, {
+        "name": "Collapsible Tree",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4339083/raw/89745e203e148bbc2f279b1702f6217681017155/README.md",
+            "size": 106,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4339083/raw/7f2b434e88cc1d469cf97c19a8ac0b2f81757152/index.html",
+            "size": 4235,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4339083/raw/65e7be96865fa4e37c857b0a06a30d7cac0986e3/thumbnail.png",
+            "size": 16334,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4339083",
+        "files": [{
+            "filename": "flare.json",
+            "type": "application/json",
+            "language": "JSON",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4339083/raw/a05a94858375bd0ae023f6950a2b13fac5127637/flare.json",
+            "size": 11413,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4339083/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Collapsible Tree",
+            "url": "http://bl.ocks.org/mbostock/4339083"
+        }
+    }, {
+        "name": "Cluster Dendrogram",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063570/raw/5da6a8c170f06e0723feb6efbed70bce01efb694/README.md",
+            "size": 350,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063570/raw/a3082822e981f1762bbb0bfe610c13633c0a157e/index.html",
+            "size": 1971,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063570/raw/b9673048fff921ff0f3e11aebaac27597375d999/thumbnail.png",
+            "size": 16937,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4063570",
+        "files": [{
+            "filename": "flare.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063570/raw/b111d979d7fcd0fabb554cccd37caf2691f31706/flare.csv",
+            "size": 7989,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4063570/raw/0aca1e70eb493498a7f7399c15e62bfc1d37a5b3/.block",
+            "size": 41,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Cluster Dendrogram",
+            "url": "http://bl.ocks.org/mbostock/4063570"
+        }
+    }, {
+        "name": "Dendrogram + Grouped Horizontal Bar Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/2b7608bda46718f5b3114229860ea0dd9e0121f0/README.md",
+            "size": 655,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/f21a003a109976fa33799b21a9e033512a5a2705/index.html",
+            "size": 7659,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/000d7b240ae3de2609a298f4f30b7983dcd5eac2/thumbnail.png",
+            "size": 19229,
+            "truncated": false
+        },
+        "author": "dahis39",
+        "id": "f28369f0b17b456ac2f1fa9b937c5002",
+        "files": [{
+            "filename": "skillsdata.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/ba44d463433658719fab91645391081fe43f3daa/skillsdata.csv",
+            "size": 1057,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/246e954e33faf96c0f66c5fdb18c1430028a0d0a/.block",
+            "size": 29,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Dendrogram + Grouped Horizontal Bar Chart",
+            "url": "https://bl.ocks.org/dahis39/f28369f0b17b456ac2f1fa9b937c5002"
+        }
+    }],
+    "animation/transition": [{
+        "name": "Sortable Bar Chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885705/raw/2cdd14341d362f68770d5ffc2059f099b979f46b/README.md",
+            "size": 331,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885705/raw/bb096245d68891a4bcf7cab1e3216d1bd5470e60/index.html",
+            "size": 3146,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885705/raw/6e9131d97a75c0a3564a5e0f718ee09921a25826/thumbnail.png",
+            "size": 4850,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3885705",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885705/raw/a65a161184a87b69fdabc3b4a952e5ac9c71b054/data.tsv",
+            "size": 251,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3885705/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Sortable Bar Chart",
+            "url": "http://bl.ocks.org/mbostock/3885705"
+        }
+    }, {
+        "name": "Chained Transitions",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1125997/raw/c0e906422356dfe7cfabf0978b41a0b60b513989/README.md",
+            "size": 383,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1125997/raw/2265b9c945b8f60b565531a4357235bf8646adb4/index.html",
+            "size": 1237,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1125997/raw/09df60ccc4056c2e69e6c0ee40c9ce8907cd9531/thumbnail.png",
+            "size": 13013,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1125997",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1125997/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Chained Transitions",
+            "url": "http://bl.ocks.org/mbostock/1125997"
+        }
+    }, {
+        "name": "General Update Pattern, I",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3808218/raw/27036a7595104faa177681cc9f8987a6f989a53d/README.md",
+            "size": 739,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3808218/raw/7725a7cfbdbca043c92589f992d07ba8c194bbab/index.html",
+            "size": 1401,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3808218/raw/05aafa07c9f75af1ea00918e6465198752ce35da/thumbnail.png",
+            "size": 1235,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3808218",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3808218/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "General Update Pattern",
+            "url": "http://bl.ocks.org/mbostock/3808218"
+        }
+    }, {
+        "name": "van Wijk Smooth Zooming",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3828981/raw/d574fc83831aa070b238dadc3280b026e2b7f0da/README.md",
+            "size": 297,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3828981/raw/ddaac654afa1b34d57dd03484b1282c2a2d0b30c/index.html",
+            "size": 1578,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3828981/raw/2b993736c8b08bc227e2c041858cb9c87ed9b5e2/thumbnail.png",
+            "size": 14716,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3828981",
+        "files": [{
+            "filename": "d3.hexbin.min.js",
+            "type": "application/javascript",
+            "language": "JavaScript",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3828981/raw/d4a19ca851e5e2eee1ef709971ff384589badec6/d3.hexbin.min.js",
+            "size": 1265,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3828981/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "van Wijk Smooth Zooming",
+            "url": "http://bl.ocks.org/mbostock/3828981"
+        }
+    }, {
+        "name": "Progress Events",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3750941/raw/dac566a7dcad4c3d9b7f1c60d89621cfa3f2d6e7/README.md",
+            "size": 1153,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3750941/raw/8eff3f5e7df0d4abe89eb825d9f2fa5d34096cfc/index.html",
+            "size": 1730,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3750941/raw/2d9aac37ffab0928bd150307fef4cac06c8b92c1/thumbnail.png",
+            "size": 4476,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3750941",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3750941/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Progress Events",
+            "url": "http://bl.ocks.org/mbostock/3750941"
+        }
+    }, {
+        "name": "Epicyclic Gearing",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1353700/raw/0f6188e850d55631fc704e9e62756b403cc110c6/README.md",
+            "size": 459,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1353700/raw/b3e7d5dbff9dd00f3df20efc8c4cbba086c7be3b/index.html",
+            "size": 3749,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1353700/raw/c9ed26af986771b51e9b6d1df06257e8fabc8af4/thumbnail.png",
+            "size": 14574,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1353700",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1353700/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Epicyclic Gearing",
+            "url": "http://bl.ocks.org/mbostock/1353700"
+        }
+    }, {
+        "name": "D3 Show Reel",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1256572/raw/b04df8f7e9e4aef6cb941759ebd88c21980f01dd/README.md",
+            "size": 928,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1256572/raw/4ca4b73b3bf512da4a91c7c69724d7c2edd29f24/index.html",
+            "size": 16187,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1256572/raw/5c5f877acab111386ff366995bcc6f2eb52852e9/thumbnail.png",
+            "size": 14168,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1256572",
+        "files": [{
+            "filename": "stocks.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1256572/raw/2574f15fcd2d93e9f6bc64936c20d32572bd9b76/stocks.csv",
+            "size": 9727,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1256572/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "D3 Show Reel",
+            "url": "http://bl.ocks.org/mbostock/1256572"
+        }
+    }, {
+        "name": "Isometric II",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/6047b93d9d37bc1d8f89/raw/a4e6b5dba0ae8e0c6a7287b9c03057fc795e16c1/README.md",
+            "size": 111,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/6047b93d9d37bc1d8f89/raw/101d1c2a02d0231c5608f3cee5817b63f1ea3ce8/index.html",
+            "size": 2039,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/6047b93d9d37bc1d8f89/raw/204a4fd947f8d258a01a2518f4b58224afe19ab6/thumbnail.png",
+            "size": 16941,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "6047b93d9d37bc1d8f89",
+        "files": [{
+            "filename": "isometric.js",
+            "type": "application/javascript",
+            "language": "JavaScript",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/6047b93d9d37bc1d8f89/raw/41ca9dd59f4edf8db418c4e3a3fba6c9e400cf24/isometric.js",
+            "size": 3808,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/6047b93d9d37bc1d8f89/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Isometric II",
+            "url": "http://bl.ocks.org/mbostock/6047b93d9d37bc1d8f89"
+        }
+    }, {
+        "name": "Spiral Circle",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2472e84f78fd03df443f/raw/4bc7d31b755d5a48a47757a2e87bdfe5138b5ac9/README.md",
+            "size": 145,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2472e84f78fd03df443f/raw/32b3b65921acd809c7d147985eba348705d5790e/index.html",
+            "size": 1267,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2472e84f78fd03df443f/raw/e2527b4731ff66038b472c3ec136476ac9365a4d/thumbnail.png",
+            "size": 15840,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "2472e84f78fd03df443f",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2472e84f78fd03df443f/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Spiral Circle",
+            "url": "http://bl.ocks.org/mbostock/2472e84f78fd03df443f"
+        }
+    }, {
+        "name": "Circle Wave",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2d466ec3417722e3568cd83fc35338e3/raw/6313a4018b12508dafae0f60673d07253a93fc6e/README.md",
+            "size": 179,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2d466ec3417722e3568cd83fc35338e3/raw/989d65b0c88afbbee216547f40fced989a5454cc/index.html",
+            "size": 1075,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2d466ec3417722e3568cd83fc35338e3/raw/0d1c4336fea51a78674aaeaed4bc5d10c32bc747/thumbnail.png",
+            "size": 8601,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "2d466ec3417722e3568cd83fc35338e3",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/2d466ec3417722e3568cd83fc35338e3/raw/826cdfa1963e41e5fb6aa5d70180ff5a3045b6f0/.block",
+            "size": 28,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Circle Wave",
+            "url": "https://gist.github.com/mbostock/2d466ec3417722e3568cd83fc35338e3"
+        }
+    }, {
+        "name": "Poisson-Disc II",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/dbb02448b0f93e4c82c3/raw/4f68a7e7136e16f7a0aff14dd816ac66282fd1dd/README.md",
+            "size": 1232,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/dbb02448b0f93e4c82c3/raw/2e3fd463864a8e2fb3ec57d74eb13adac03513d3/index.html",
+            "size": 5236,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/dbb02448b0f93e4c82c3/raw/9ca4a1000294618f7dd1fa2a15d94d616da3011c/thumbnail.png",
+            "size": 10851,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "dbb02448b0f93e4c82c3",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/dbb02448b0f93e4c82c3/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Poisson-Disc II",
+            "url": "http://bl.ocks.org/mbostock/dbb02448b0f93e4c82c3"
+        }
+    }],
+    "interaction": [{
+        "name": "Build Your Own Graph!",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/929623/raw/70f5626b47552f4582c64737afaee499a1e19a13/README.md",
+            "size": 438,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/929623/raw/8f693ffb2b0dd87023f9428a2e9fcbf301668d7c/index.html",
+            "size": 2130,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/929623/raw/2fa4f7b74425a03f3e9f55611119f13fd9d8d5ed/thumbnail.png",
+            "size": 4590,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "929623",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/929623/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Build Your Own Graph!",
+            "url": "http://bl.ocks.org/mbostock/929623"
+        }
+    }, {
+        "name": "Spline Editor",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4342190/raw/b2aa7c4d154d4e0dcfef4b6a5e3bd3511fb89d11/README.md",
+            "size": 129,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4342190/raw/5b45d1c46eb3ee297c53a8e6799d6f81521ad052/index.html",
+            "size": 3115,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4342190/raw/d6db77291279b30e855ce8f58006c004375c6de7/thumbnail.png",
+            "size": 8023,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4342190",
+        "files": [],
+        "ogist": {
+            "name": "Spline Editor",
+            "url": "http://bl.ocks.org/mbostock/4342190"
+        }
+    }, {
+        "name": "Zoomable Circle Packing",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7607535/raw/d26ec29e54b93c2323721af2e7c6daa42de9dadb/README.md",
+            "size": 105,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7607535/raw/d37280d8608e9cb61eb99a7f791f290a17e66b8d/index.html",
+            "size": 3054,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7607535/raw/19ead3729418158e4d457ffaa2c875823c9bb354/thumbnail.png",
+            "size": 25855,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "7607535",
+        "files": [{
+            "filename": "flare.json",
+            "type": "application/json",
+            "language": "JSON",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7607535/raw/a05a94858375bd0ae023f6950a2b13fac5127637/flare.json",
+            "size": 11413,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7607535/raw/55e9a84ead3ce14fc16fc45d505aee1897afd393/.block",
+            "size": 29,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Zoomable Circle Packing",
+            "url": "http://bl.ocks.org/mbostock/7607535"
+        }
+    }, {
+        "name": "Scatterplot Matrix Brushing",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/ekatzenstein/18ca63dc3d5a5ac3e97f104d43f487ad/raw/0fc57114ac3121a5bd263f358e44aaca3bc690e5/README.md",
+            "size": 645,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/ekatzenstein/18ca63dc3d5a5ac3e97f104d43f487ad/raw/de07fe1b4515c2c1a0c102ce16fbdec2874a5a6d/index.html",
+            "size": 4297,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/ekatzenstein/18ca63dc3d5a5ac3e97f104d43f487ad/raw/13ced70c2a3f0c23d22be47d7afb2f5bcd5cec19/thumbnail.png",
+            "size": 26924,
+            "truncated": false
+        },
+        "author": "ekatzenstein",
+        "id": "18ca63dc3d5a5ac3e97f104d43f487ad",
+        "files": [{
+            "filename": "flowers.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/ekatzenstein/18ca63dc3d5a5ac3e97f104d43f487ad/raw/3fbba4b18a1412f6fed34e780e82ae4108c175f2/flowers.csv",
+            "size": 3858,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/ekatzenstein/18ca63dc3d5a5ac3e97f104d43f487ad/raw/f2e457178072b9d659507b4f116101882e616006/.block",
+            "size": 39,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Scatterplot Matrix Brushing",
+            "url": "https://gist.github.com/ekatzenstein/18ca63dc3d5a5ac3e97f104d43f487ad"
+        }
+    }, {
+        "name": "Line Drawing",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f705fc55e6f26df29354/raw/8ffac378fc04f02223de2bffb62f20cedab9cb3e/README.md",
+            "size": 54,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f705fc55e6f26df29354/raw/82b165fe3d674dfa51c2be1721f133a8e72013b9/index.html",
+            "size": 1002,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f705fc55e6f26df29354/raw/8f16d507ea5ffdc5cb5b91fa878732bcf9b01986/thumbnail.png",
+            "size": 9858,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "f705fc55e6f26df29354",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f705fc55e6f26df29354/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Line Drawing",
+            "url": "http://bl.ocks.org/mbostock/f705fc55e6f26df29354"
+        }
+    }, {
+        "name": "Brush & Zoom",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/34f08d5e11952a80609169b7917d4172/raw/d1bf9a4330ed97c622b1d183bdcad11dd0180d86/README.md",
+            "size": 225,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/34f08d5e11952a80609169b7917d4172/raw/0707943a77cf3d463957945e591537c99be5ffb8/index.html",
+            "size": 3873,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/34f08d5e11952a80609169b7917d4172/raw/581228d54b055e879631e2e4bc96456bc92f56b3/thumbnail.png",
+            "size": 9783,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "34f08d5e11952a80609169b7917d4172",
+        "files": [{
+            "filename": "sp500.csv",
+            "type": "text/csv",
+            "language": "CSV",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/34f08d5e11952a80609169b7917d4172/raw/94f63122e9c1e5e0e7eadf5490208ff940d85436/sp500.csv",
+            "size": 2059,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/34f08d5e11952a80609169b7917d4172/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Brush & Zoom",
+            "url": "http://bl.ocks.org/mbostock/34f08d5e11952a80609169b7917d4172"
+        }
+    }, {
+        "name": "Using d3-tip to add tooltips to a d3 bar chart",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/Caged/6476579/raw/8bb32bbcdc0e86bb38535ac2dba7a06a6f4dee53/README.md",
+            "size": 128,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/Caged/6476579/raw/af22166be5be3b6886bb28de2f01448679f21470/index.html",
+            "size": 2908,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/Caged/6476579/raw/09533ec0f472ea5daf1afecebc15dbcbb4281a5c/thumbnail.png",
+            "size": 6404,
+            "truncated": false
+        },
+        "author": "Caged",
+        "id": "6476579",
+        "files": [{
+            "filename": "data.tsv",
+            "type": "text/tab-separated-values",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/Caged/6476579/raw/a65a161184a87b69fdabc3b4a952e5ac9c71b054/data.tsv",
+            "size": 251,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Tooltips",
+            "url": "http://bl.ocks.org/Caged/6476579"
+        }
+    }, {
+        "name": "DashBoard",
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/NPashaP/96447623ef4d342ee09b/raw/d34eb219f39f43b7e52a3169a92bc05f19b4bafe/index.html",
+            "size": 9849,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/NPashaP/96447623ef4d342ee09b/raw/19418ef67414d3f98451ba2415769f7c76539e9a/thumbnail.png",
+            "size": 4143,
+            "truncated": false
+        },
+        "author": "NPashaP",
+        "id": "96447623ef4d342ee09b",
+        "files": [{
+            "filename": "readme.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/NPashaP/96447623ef4d342ee09b/raw/65a94c45a53f98f750cdaf16a1a282c1ef06bd05/readme.md",
+            "size": 336,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/NPashaP/96447623ef4d342ee09b/raw/95c691a27ca5201997d4e215ca600674c8db0d38/.block",
+            "size": 16,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "DashBoard",
+            "url": "http://bl.ocks.org/NPashaP/96447623ef4d342ee09b"
+        }
+    }, {
+        "name": "Brush & Zoom II",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f48fcdb929a620ed97877e4678ab15e6/raw/daab95b5d57c4a1581ba62e0f0198ab026850e4a/README.md",
+            "size": 210,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f48fcdb929a620ed97877e4678ab15e6/raw/dfe76f24d88ba98c5e7ee2ee2600fab11ce63631/index.html",
+            "size": 2350,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f48fcdb929a620ed97877e4678ab15e6/raw/30a24141233e031d2e5080394339055ebe6455fa/thumbnail.png",
+            "size": 9208,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "f48fcdb929a620ed97877e4678ab15e6",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/f48fcdb929a620ed97877e4678ab15e6/raw/cd040b760e372adf7013b839374779a986a3befc/.block",
+            "size": 29,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Brush & Zoom II",
+            "url": "http://bl.ocks.org/mbostock/f48fcdb929a620ed97877e4678ab15e6"
+        }
+    }],
+    "topology": [{
+        "name": "Voronoi Tessellation",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060366/raw/edb7baa6069425881eaaf6d5cd5ef26cd810d2d8/README.md",
+            "size": 136,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060366/raw/e6fd5d726fac4b8216ee27308e3fd2d55d0f2991/index.html",
+            "size": 2065,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060366/raw/2d16c5d484ed9a47fea5d9116d9a22c599260b81/thumbnail.png",
+            "size": 22455,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4060366",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4060366/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Voronoi Tessellation",
+            "url": "http://bl.ocks.org/mbostock/4060366"
+        }
+    }, {
+        "name": "Rotating Voronoi",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4636377/raw/67ad2536e7c94d87432419da91a7bed41c340e47/README.md",
+            "size": 661,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4636377/raw/3535e24c11b62d34f6494d18e2b2eb4ef8147631/index.html",
+            "size": 2073,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4636377/raw/111219a19393db95ce2310f77ec6d70ef32c00ef/thumbnail.png",
+            "size": 44129,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4636377",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4636377/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Rotating Voronoi",
+            "url": "http://bl.ocks.org/mbostock/4636377"
+        }
+    }, {
+        "name": "Delaunay Circles III",
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1d127e44b53a3cbebe7b/raw/3d0abd25bb4609ae9b09a38d8d000989024f6019/index.html",
+            "size": 25157,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1d127e44b53a3cbebe7b/raw/f9494c63320081f4b766226420f7322a7eef5f32/thumbnail.png",
+            "size": 65575,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1d127e44b53a3cbebe7b",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1d127e44b53a3cbebe7b/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Delaunay Circles III",
+            "url": "http://bl.ocks.org/mbostock/1d127e44b53a3cbebe7b"
+        }
+    }, {
+        "name": "Colorcomb II",
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/85d7dce6fca6277f75fe/raw/83d35c134278ac75912e27f6d2a26cb53d8c02f2/index.html",
+            "size": 28889,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/85d7dce6fca6277f75fe/raw/a668f9c1749bb14746b218f4a3fa8872b7c3cf2e/thumbnail.png",
+            "size": 70336,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "85d7dce6fca6277f75fe",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/85d7dce6fca6277f75fe/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Colorcomb II",
+            "url": "http://bl.ocks.org/mbostock/85d7dce6fca6277f75fe"
+        }
+    }, {
+        "name": "Color Mesh II",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/76342abc327062128604/raw/149d79d577faa32951b46e13bc1c73134967d7a2/README.md",
+            "size": 108,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/76342abc327062128604/raw/9473581ccbd356d0bb1fd508a816b23ae8a7e7ca/index.html",
+            "size": 3077,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/76342abc327062128604/raw/4011bbbe6fdd899cdbc2ef13667817da1530b7f4/thumbnail.png",
+            "size": 28928,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "76342abc327062128604",
+        "files": [],
+        "ogist": {
+            "name": "Color Mesh II",
+            "url": "http://bl.ocks.org/mbostock/76342abc327062128604"
+        }
+    }],
+    "forces/relaxation": [{
+        "name": "Force-Directed Graph",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4062045/raw/58914a2fb1a3d5b09a7994c302785edf97a353a6/README.md",
+            "size": 787,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4062045/raw/d27d1f0c3d72e242e71048f0d206cac70ef74b0c/index.html",
+            "size": 2122,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4062045/raw/0bf73a11321b9ffe4d9c59aa3df2161c90ee9235/thumbnail.png",
+            "size": 12145,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "4062045",
+        "files": [{
+            "filename": "miserables.json",
+            "type": "application/json",
+            "language": "JSON",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4062045/raw/7db92850f88361c85f9fe4efa20333a454c5632a/miserables.json",
+            "size": 18844,
+            "truncated": false
+        }, {
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/4062045/raw/cd040b760e372adf7013b839374779a986a3befc/.block",
+            "size": 29,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Force-Directed Graph",
+            "url": "http://bl.ocks.org/mbostock/4062045"
+        }
+    }, {
+        "name": "Better force layout node selection",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/couchand/6420534/raw/730c028e00cc0262f7dedb9243f8b8116d6855f9/README.md",
+            "size": 929,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/couchand/6420534/raw/110815aebc8d86e4279806dd1754533e63d9e4a2/index.html",
+            "size": 2852,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/couchand/6420534/raw/84a16303101dbe8adc0ecc298471d95ebac4356e/thumbnail.png",
+            "size": 22860,
+            "truncated": false
+        },
+        "author": "couchand",
+        "id": "6420534",
+        "files": [{
+            "filename": "miserables.json",
+            "type": "application/json",
+            "language": "JSON",
+            "raw_url": "https://gist.githubusercontent.com/couchand/6420534/raw/40be75727ab60227a2b41abe5a509d30de831ffd/miserables.json",
+            "size": 13203,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Better force layout node selection",
+            "url": "http://bl.ocks.org/couchand/6420534"
+        }
+    }, {
+        "name": "Collision Detection",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3231298/raw/3cc5f41b98ac1f249bf80f91cb3d8bac7910e739/README.md",
+            "size": 145,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3231298/raw/b4db30731a1aacdd05bc7590fb58a1b56158ea69/index.html",
+            "size": 1816,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3231298/raw/d187656d23ea7fd82d28a233a9a3d3a19776bdb1/thumbnail.png",
+            "size": 16662,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "3231298",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/3231298/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Collision Detection",
+            "url": "https://gist.github.com/mbostock/3231298"
+        }
+    }, {
+        "name": "Clustered Force Layout III",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7881887/raw/c303f15e23d14c9dccc0c7e4d6915d3840aca257/README.md",
+            "size": 2467,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7881887/raw/73537435f7fc235d9235a00065244b1fbc8c8bd4/index.html",
+            "size": 3117,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7881887/raw/9f28949647849078217206520f963f13a789866c/thumbnail.png",
+            "size": 11028,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "7881887",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/7881887/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Clustered Force Layout III",
+            "url": "http://bl.ocks.org/mbostock/7881887"
+        }
+    }, {
+        "name": "Delaunay Force Mesh II",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c6966db1fcb0ed2988da/raw/1077535ada8839bf121c4cd785437c9753a21444/README.md",
+            "size": 119,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c6966db1fcb0ed2988da/raw/0ba1d142507f93c2d4b61041b409da2e46f5b68f/index.html",
+            "size": 1844,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c6966db1fcb0ed2988da/raw/751ca9f4619957f48d0482381cb1a6b3b080bcaa/thumbnail.png",
+            "size": 17132,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "c6966db1fcb0ed2988da",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/c6966db1fcb0ed2988da/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Delaunay Force Mesh II",
+            "url": "http://bl.ocks.org/mbostock/c6966db1fcb0ed2988da"
+        }
+    }, {
+        "name": "Delaunay Force Mesh III",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/517fdb49f959cb1461e2/raw/e9468968c9811cb2aa58d33ff65df2279a267d2e/README.md",
+            "size": 144,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/517fdb49f959cb1461e2/raw/45972895bcfb14a7780ec45f4ee5f1769a2dad6d/index.html",
+            "size": 3953,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/517fdb49f959cb1461e2/raw/5c9ff8dfb6d9085d8c61d9fe233ad16efff10043/thumbnail.png",
+            "size": 29218,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "517fdb49f959cb1461e2",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/517fdb49f959cb1461e2/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Delaunay Force Mesh III",
+            "url": "http://bl.ocks.org/mbostock/517fdb49f959cb1461e2"
+        }
+    }, {
+        "name": "Force-Directed Lattice",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1b64ec067fcfc51e7471d944f51f1611/raw/870d0b8d135a8c377d5a7fcfc6f2a4579d9c98b5/README.md",
+            "size": 236,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1b64ec067fcfc51e7471d944f51f1611/raw/15282bcb17de44ca949aefe3b7bf82e270f57f6e/index.html",
+            "size": 2117,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1b64ec067fcfc51e7471d944f51f1611/raw/52c196058672861739f3386b07b57176b18fd813/thumbnail.png",
+            "size": 11192,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1b64ec067fcfc51e7471d944f51f1611",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1b64ec067fcfc51e7471d944f51f1611/raw/55e9a84ead3ce14fc16fc45d505aee1897afd393/.block",
+            "size": 29,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Force-Directed Lattice",
+            "url": "http://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611"
+        }
+    }, {
+        "name": "Isolating Forces",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/b1f0ee970299756bc12d60aedf53c13b/raw/dfadfe51006542d313b9485f1639a5c1cfef996d/README.md",
+            "size": 782,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/b1f0ee970299756bc12d60aedf53c13b/raw/0cbfb90d5a9f9139698dc4175c9360f6bd7b6b4b/index.html",
+            "size": 1310,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/b1f0ee970299756bc12d60aedf53c13b/raw/38388f5c08d924489732bbe0a2c61bbf9821816e/thumbnail.png",
+            "size": 12775,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "b1f0ee970299756bc12d60aedf53c13b",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/b1f0ee970299756bc12d60aedf53c13b/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Isolating Forces",
+            "url": "http://bl.ocks.org/mbostock/b1f0ee970299756bc12d60aedf53c13b"
+        }
+    }, {
+        "name": "Modifying a Force Layout",
+        "readme": {
+            "filename": "README.md",
+            "type": "text/plain",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1095795/raw/f618470f21cb630d970e782f623444b4195fd90f/README.md",
+            "size": 681,
+            "truncated": false
+        },
+        "index": {
+            "filename": "index.html",
+            "type": "text/html",
+            "language": "HTML",
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1095795/raw/b4cdcae78f23239283fa665c162acb04ca9e6f9f/index.html",
+            "size": 2429,
+            "truncated": false
+        },
+        "thumbnail": {
+            "filename": "thumbnail.png",
+            "type": "image/png",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1095795/raw/0513e8d11d32cc7a4cb1404417e419faedd069e6/thumbnail.png",
+            "size": 4317,
+            "truncated": false
+        },
+        "author": "mbostock",
+        "id": "1095795",
+        "files": [{
+            "filename": ".block",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/mbostock/1095795/raw/703d310b399098a243a76a50bc209167e924cfd2/.block",
+            "size": 17,
+            "truncated": false
+        }],
+        "ogist": {
+            "name": "Modifying a Force Layout",
+            "url": "http://bl.ocks.org/mbostock/1095795"
+        }
+    }]
+}
