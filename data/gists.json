@@ -1,0 +1,256 @@
+{
+	"basic charts": [
+		{
+			"name":"Scatterplot",
+			"url":"http://bl.ocks.org/mbostock/3887118"
+		},
+		{
+			"name":"Bar Chart",
+			"url":"http://bl.ocks.org/mbostock/3885304"
+		},
+		{
+      "name":"Line Chart",
+  		"url":"http://bl.ocks.org/mbostock/3883245"
+    },
+		{
+			"name":"Area Chart",
+			"url":"https://bl.ocks.org/mbostock/3883195"
+		},
+		{
+			"name":"Bivariate Area Chartt",
+			"url":"http://bl.ocks.org/mbostock/3884914"
+		},
+		{
+			"name":"Grouped Bar Chart",
+			"url":"http://bl.ocks.org/mbostock/3887051"
+		},
+		{
+			"name":"Donut Chart",
+			"url":"http://bl.ocks.org/mbostock/3887193"
+		},
+		{
+			"name":"Pie Chart",
+			"url":"http://bl.ocks.org/mbostock/3887235"
+		}
+	],
+	"advanced charts":[
+		{
+			"name":"Hexagonal Binning",
+			"url":"http://bl.ocks.org/mbostock/4248145"
+		},
+		{
+			"name":"Choropleth",
+			"url":"http://bl.ocks.org/mbostock/4060606"
+		},
+		{
+			"name":"Stacked Bar Chart",
+			"url":"http://bl.ocks.org/mbostock/3886208"
+		},
+		{
+			"name":"Normalized Stacked Bar Chart",
+			"url":"http://bl.ocks.org/mbostock/3886394"
+		},
+		{
+			"name":"Stacked Area Chart",
+			"url":"http://bl.ocks.org/mbostock/3885211"
+		},
+		{
+			"name":"Waterfall Chart",
+			"url":"http://bl.ocks.org/chucklam/f3c7b3e3709a0afd5d57"
+		},
+		{
+			"name":"Difference Chart",
+			"url":"http://bl.ocks.org/mbostock/3894205"
+		},
+		{
+			"name":"Parallel Coordinates",
+			"url":"http://bl.ocks.org/jasondavies/1341281"
+		},
+		{
+			"name":"Bubble Chart",
+			"url":"http://bl.ocks.org/mbostock/4063269"
+		},
+		{
+			"name":"Hierarchical Edge Bundling",
+			"url":"https://gist.github.com/mbostock/1044242"
+		},
+		{
+			"name":"Chord Diagram",
+			"url":"https://gist.github.com/mbostock/1046712"
+		},
+		{
+			"name":"Solar Analemmas",
+			"url":"http://bl.ocks.org/mbostock/c5504ab3cd25f93af26a"
+		},
+		{
+			"name":"Radial Stacked Bar II",
+			"url":"http://bl.ocks.org/mbostock/5479367295dfe8f21002fc71d6500392"
+		},
+		{
+			"name":"Sequences sunburst",
+			"url":"http://bl.ocks.org/kerryrodden/7090426"
+		}
+  ],
+		"dendrograms":[
+      {
+        "name":"Radial Tidy Tree",
+        "url":"http://bl.ocks.org/mbostock/4063550"
+      },
+      {
+        "name":"Collapsible Tree",
+        "url":"http://bl.ocks.org/mbostock/4339083"
+      },
+      {
+        "name":"Cluster Dendrogram",
+        "url":"http://bl.ocks.org/mbostock/4063570"
+      },
+      {
+        "name":"Dendrogram + Grouped Horizontal Bar Chart",
+        "url":"https://bl.ocks.org/dahis39/f28369f0b17b456ac2f1fa9b937c5002"
+      }
+		],
+    "animation/transition":[
+			{
+				"name":"Sortable Bar Chart",
+				"url":"http://bl.ocks.org/mbostock/3885705"
+			},
+      {
+        "name":"Chained Transitions",
+        "url":"http://bl.ocks.org/mbostock/1125997"
+      },
+			{
+				"name":"General Update Pattern",
+				"url":"http://bl.ocks.org/mbostock/3808218"
+			},
+			{
+				"name":"van Wijk Smooth Zooming",
+				"url":"http://bl.ocks.org/mbostock/3828981"
+			},
+      {
+        "name":"Progress Events",
+        "url":"http://bl.ocks.org/mbostock/3750941"
+      },
+      {
+        "name":"Epicyclic Gearing",
+        "url":"http://bl.ocks.org/mbostock/1353700"
+      },
+      {
+        "name":"D3 Show Reel",
+        "url":"http://bl.ocks.org/mbostock/1256572"
+      },
+      {
+        "name":"Isometric II",
+        "url":"http://bl.ocks.org/mbostock/6047b93d9d37bc1d8f89"
+      },
+      {
+        "name":"Spiral Circle",
+        "url":"http://bl.ocks.org/mbostock/2472e84f78fd03df443f"
+      },
+      {
+        "name":"Circle Wave",
+        "url":"https://gist.github.com/mbostock/2d466ec3417722e3568cd83fc35338e3"
+      },
+      {
+        "name":"Poisson-Disc II",
+        "url":"http://bl.ocks.org/mbostock/dbb02448b0f93e4c82c3"
+      }
+    ],
+		"interaction":[
+      {
+        "name":"Build Your Own Graph!",
+        "url":"http://bl.ocks.org/mbostock/929623"
+      },
+      {
+        "name":"Spline Editor",
+        "url":"http://bl.ocks.org/mbostock/4342190"
+      },
+      {
+        "name":"Zoomable Circle Packing",
+        "url":"http://bl.ocks.org/mbostock/7607535"
+      },
+      {
+        "name":"Scatterplot Matrix Brushing",
+        "url":"https://gist.github.com/ekatzenstein/18ca63dc3d5a5ac3e97f104d43f487ad"
+      },
+      {
+        "name":"Line Drawing",
+        "url":"http://bl.ocks.org/mbostock/f705fc55e6f26df29354"
+      },
+      {
+        "name":"Brush & Zoom",
+        "url":"http://bl.ocks.org/mbostock/34f08d5e11952a80609169b7917d4172"
+      },
+      {
+        "name":"Tooltips",
+        "url":"http://bl.ocks.org/Caged/6476579"
+      },
+      {
+        "name":"DashBoard",
+        "url":"http://bl.ocks.org/NPashaP/96447623ef4d342ee09b"
+      },
+      {
+        "name":"Brush & Zoom II",
+        "url":"http://bl.ocks.org/mbostock/f48fcdb929a620ed97877e4678ab15e6"
+      }
+    ],
+		"topology":[
+      {
+        "name":"Voronoi Tessellation",
+        "url":"http://bl.ocks.org/mbostock/4060366"
+      },
+      {
+        "name":"Rotating Voronoi",
+        "url":"http://bl.ocks.org/mbostock/4636377"
+      },
+      {
+        "name":"Delaunay Circles III",
+        "url":"http://bl.ocks.org/mbostock/1d127e44b53a3cbebe7b"
+      },
+      {
+        "name":"Colorcomb II",
+        "url":"http://bl.ocks.org/mbostock/85d7dce6fca6277f75fe"
+      },
+      {
+        "name":"Color Mesh II",
+        "url":"http://bl.ocks.org/mbostock/76342abc327062128604"
+      }
+		],
+		"forces/relaxation":[
+			{
+	      "name":"Force-Directed Graph",
+	  		"url":"http://bl.ocks.org/mbostock/4062045"
+	    },
+			{
+				"name":"Better force layout node selection",
+				"url":"http://bl.ocks.org/couchand/6420534"
+			},
+			{
+				"name":"Collision Detection",
+				"url":"https://gist.github.com/mbostock/3231298"
+			},
+			{
+				"name":"Clustered Force Layout III",
+				"url":"http://bl.ocks.org/mbostock/7881887"
+			},
+			{
+				"name":"Delaunay Force Mesh II",
+				"url":"http://bl.ocks.org/mbostock/c6966db1fcb0ed2988da"
+			},
+			{
+				"name":"Delaunay Force Mesh III",
+				"url":"http://bl.ocks.org/mbostock/517fdb49f959cb1461e2"
+			},
+			{
+				"name":"Force-Directed Lattice",
+				"url":"http://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611"
+			},
+			{
+				"name":"Isolating Forces",
+				"url":"http://bl.ocks.org/mbostock/b1f0ee970299756bc12d60aedf53c13b"
+			},
+			{
+				"name":"Modifying a Force Layout",
+				"url":"http://bl.ocks.org/mbostock/1095795"
+			}
+		]
+}
